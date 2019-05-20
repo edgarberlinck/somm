@@ -1,2 +1,5 @@
 database-generation/credentials/*.json
 database-generation/node_modules/*
+.DS_Store
+database-generation/content/*
+database-generation/content.json
