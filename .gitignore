@@ -1,0 +1,2 @@
+database-generation/credentials/*.json
+database-generation/node_modules/*
